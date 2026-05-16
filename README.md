@@ -1,10 +1,9 @@
-<!--
-**seemarahin/Seemarahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
+
 
 
 ## 👋🏻 Hi there! I'm Seemarahin Shaikh, I'm a...
 
-- 💻 Self-taught Power Platform developer<\n>
+- 💻 Self-taught Power Platform developer
 - 📊 Focussing on Power Platform Architecture
 - 🎓 Engineering graduate
 
