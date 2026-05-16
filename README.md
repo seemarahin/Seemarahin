@@ -4,7 +4,7 @@
 
 ## 👋🏻 Hi there! I'm Seemarahin Shaikh, I'm a...
 
-- 💻 Self-taught Power Platform developer</n>
+- 💻 Self-taught Power Platform developer<\n>
 - 📊 Focussing on Power Platform Architecture
 - 🎓 Engineering graduate
 
