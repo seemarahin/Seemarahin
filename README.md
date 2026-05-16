@@ -16,4 +16,4 @@ I like to build Enterprise grade solutions
 
 ### 💌 Get in touch
 
-- 📸 [LinkedIn](www.linkedin.com/in/seemarahinshaikh)
+- 📸 [LinkedIn](https://www.linkedin.com/in/seemarahinshaikh)
