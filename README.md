@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**seemarahin/Seemarahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**seemarahin/Seemarahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
 
 # 👋🏻 Hi there! I'm Seemarahin Shaikh, I'm a...
